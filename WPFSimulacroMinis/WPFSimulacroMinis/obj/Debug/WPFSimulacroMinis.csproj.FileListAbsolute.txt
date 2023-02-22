@@ -42,7 +42,6 @@ C:\Users\usuario\Documents\GitHub\WPF\WPFSimulacroMinis\WPFSimulacroMinis\obj\De
 C:\Users\usuario\Documents\GitHub\WPF\WPFSimulacroMinis\WPFSimulacroMinis\obj\Debug\App.g.cs
 C:\Users\usuario\Documents\GitHub\WPF\WPFSimulacroMinis\WPFSimulacroMinis\obj\Debug\WPFSimulacroMinis_MarkupCompile.cache
 C:\Users\usuario\Documents\GitHub\WPF\WPFSimulacroMinis\WPFSimulacroMinis\obj\Debug\WPFSimulacroMinis_MarkupCompile.lref
-C:\Users\usuario\Documents\GitHub\WPF\WPFSimulacroMinis\WPFSimulacroMinis\obj\Debug\App.baml
 C:\Users\usuario\Documents\GitHub\WPF\WPFSimulacroMinis\WPFSimulacroMinis\obj\Debug\Ciao.baml
 C:\Users\usuario\Documents\GitHub\WPF\WPFSimulacroMinis\WPFSimulacroMinis\obj\Debug\Ejercicio1.baml
 C:\Users\usuario\Documents\GitHub\WPF\WPFSimulacroMinis\WPFSimulacroMinis\obj\Debug\Ejercicio2.baml
@@ -56,3 +55,5 @@ C:\Users\usuario\Documents\GitHub\WPF\WPFSimulacroMinis\WPFSimulacroMinis\obj\De
 C:\Users\usuario\Documents\GitHub\WPF\WPFSimulacroMinis\WPFSimulacroMinis\obj\Debug\WPFSimulacroMinis.csproj.CoreCompileInputs.cache
 C:\Users\usuario\Documents\GitHub\WPF\WPFSimulacroMinis\WPFSimulacroMinis\obj\Debug\WPFSimulacroMinis.exe
 C:\Users\usuario\Documents\GitHub\WPF\WPFSimulacroMinis\WPFSimulacroMinis\obj\Debug\WPFSimulacroMinis.pdb
+C:\Users\usuario\Documents\GitHub\WPF\WPFSimulacroMinis\WPFSimulacroMinis\obj\Debug\FINAL.g.cs
+C:\Users\usuario\Documents\GitHub\WPF\WPFSimulacroMinis\WPFSimulacroMinis\obj\Debug\FINAL.baml

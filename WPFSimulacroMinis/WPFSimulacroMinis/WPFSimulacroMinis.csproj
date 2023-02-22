@@ -75,6 +75,10 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="FINAL.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Hola.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -101,6 +105,9 @@
     </Compile>
     <Compile Include="Ejercicio4.xaml.cs">
       <DependentUpon>Ejercicio4.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FINAL.xaml.cs">
+      <DependentUpon>FINAL.xaml</DependentUpon>
     </Compile>
     <Compile Include="Hola.xaml.cs">
       <DependentUpon>Hola.xaml</DependentUpon>

@@ -53,7 +53,7 @@ namespace Simulacro {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Simulacro;component/ciao.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Simulacro;V1.0.0.0;component/ciao.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\Ciao.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

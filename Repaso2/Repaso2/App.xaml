@@ -1,0 +1,20 @@
+﻿<Application x:Class="Repaso2.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Repaso2"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="Aqua"/>
+        </Style>
+        <Style x:Key="Lista de ciudades" TargetType= "ListBox">
+            <Setter Property= "HorizontalAlignment" Value = "center"></Setter>
+            <Setter Property="Foreground" Value = "#fff"></Setter>
+            <Setter Property="BorderBrush" Value = "DarkRed"></Setter>
+            <Setter Property="BorderThickness" Value = "3"></Setter>
+            <Setter Property="Background" Value = "IndianRed"></Setter>
+            <Setter Property="FontWeight" Value = "Bold"></Setter>
+            
+        </Style>
+    </Application.Resources>
+</Application>
