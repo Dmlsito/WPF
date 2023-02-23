@@ -6,12 +6,30 @@
         xmlns:local="clr-namespace:Repaso2"
         mc:Ignorable="d"
         Title="Ejercicio4" Height="450" Width="800">
-   
-      
-        <Button Width = "150" Content = "Desactivar progressBar" HorizontalAlignment="left">
-            <Button.ToolTip>
-                <TextBlock Text = "btnPrueba"></TextBlock>
-            </Button.ToolTip>
-        </Button>
+
+
+    <StackPanel VerticalAlignment="Center">
+        <StackPanel.Resources>
+            <Style TargetType="TextBlock">
+                <Setter Property="Foreground" Value = "white"></Setter>
+                <Setter Property="Background" Value = "IndianRed"></Setter>
+                <Setter Property="TextAlignment" Value = "Center"></Setter>
+            </Style>
+            <Style TargetType="Border">
+                <Setter Property="BorderBrush" Value = "DarkRed"></Setter>
+                <Setter Property="BorderThickness" Value = "3"></Setter> 
+                <Setter Property="Margin" Value = "0, 50, 10, 0"></Setter>
+            </Style>
+        </StackPanel.Resources>
+        <ProgressBar Value= "{Binding ElementName = slider, Path = Value}" Height = "100" IsIndeterminate="false" Name = "progressBar" Minimum="1" Maximum = "100" >
+        </ProgressBar>
+        <Button Content = "Activar" Name = "btn" Width = "200" Click="btn_Click"></Button>
+        <Slider Name = "slider" Minimum="1" Maximum = "100"></Slider>
+        <Border>
+            <TextBlock Text = "ESTO ES UN TEXTO DE PRUEBA"></TextBlock>
+        </Border>
+        
+    </StackPanel>
+  
     
 </Window>

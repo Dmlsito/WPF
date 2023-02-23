@@ -69,7 +69,7 @@ namespace Simulacro {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Simulacro;V1.0.0.0;component/ejercicio4.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Simulacro;component/ejercicio4.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\Ejercicio4.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

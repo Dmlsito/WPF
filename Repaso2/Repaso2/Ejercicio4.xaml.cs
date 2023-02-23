@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
@@ -19,13 +20,16 @@ namespace Repaso2
     /// </summary>
     public partial class Ejercicio4 : Window
     {
+       
         public Ejercicio4()
         {
             InitializeComponent();
         }
 
-       
+        private void btn_Click(object sender, RoutedEventArgs e)
+        {
 
-       
+            progressBar.Value += 1;
+        }
     }
 }

@@ -48,5 +48,11 @@ namespace Repaso2
             Ejercicio4 ventana4 = new Ejercicio4();
             ventana4.Show();
         }
+
+        private void btn5_Click(object sender, RoutedEventArgs e)
+        {
+            Ejercicio5 ventana5 = new Ejercicio5();
+            ventana5.Show();
+        }
     }
 }

@@ -14,7 +14,8 @@
             <Setter Property="BorderThickness" Value = "3"></Setter>
             <Setter Property="Background" Value = "IndianRed"></Setter>
             <Setter Property="FontWeight" Value = "Bold"></Setter>
-            
+
         </Style>
+      
     </Application.Resources>
 </Application>

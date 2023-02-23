@@ -28,3 +28,5 @@ C:\Users\usuario\Documents\GitHub\WPF\Repaso2\Repaso2\obj\Debug\net6.0-windows\D
 C:\Users\usuario\Documents\GitHub\WPF\Repaso2\Repaso2\obj\Debug\net6.0-windows\DataBinding.baml
 C:\Users\usuario\Documents\GitHub\WPF\Repaso2\Repaso2\obj\Debug\net6.0-windows\Ejercicio4.g.cs
 C:\Users\usuario\Documents\GitHub\WPF\Repaso2\Repaso2\obj\Debug\net6.0-windows\Ejercicio4.baml
+C:\Users\usuario\Documents\GitHub\WPF\Repaso2\Repaso2\obj\Debug\net6.0-windows\Ejercicio5.g.cs
+C:\Users\usuario\Documents\GitHub\WPF\Repaso2\Repaso2\obj\Debug\net6.0-windows\Ejercicio5.baml
